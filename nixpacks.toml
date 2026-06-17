@@ -1,5 +1,1 @@
-[providers]
-python = {}
 
-[start]
-cmd = "python main.py"
